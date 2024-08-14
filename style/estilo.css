@@ -1,0 +1,21 @@
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+    text-align: justify;
+    padding: 1% 2%;
+}
+
+.diferente {
+    width: 171px;
+    height: 150px;
+}
+
+.imagens {
+    width: 113px;
+    height: 150px;
+}
